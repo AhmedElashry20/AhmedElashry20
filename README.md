@@ -83,10 +83,63 @@ const ahmed = {
 
 <br>
 
+<!-- ==================== SHIFA CARE ==================== -->
+<div align="center">
+
+### `01` Shifa Care — Hospital Booking, Telemedicine & Hospital ERP
+**`Flutter · Dart · REST API · Flutter Web`**
+
+![Status](https://img.shields.io/badge/Status-Complete_MVP-00FF41?style=flat-square)
+![Apps](https://img.shields.io/badge/Apps-Patient_·_Doctor_·_ERP-00FF41?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-25_passing-00FF41?style=flat-square)
+
+</div>
+
+```
+ Multi-branch hospital platform — 3 apps on one live API
+ ├── 📱 Patient App (Flutter) — Book by branch, live queue ticket, video/voice/chat
+ │                              consults, e-prescriptions, pharmacy orders, health log
+ ├── 🩺 Doctor App (Flutter)  — Clock-in per branch, live queue, consult timer,
+ │                              visit notes & prescriptions visible to patient instantly
+ ├── 🖥️  Hospital ERP (Web)    — Queue screen, branches, bookings, pharmacy & inventory,
+ │                              HR & payroll, finance, insurance claims, RBAC
+ └── ⚙️  REST API (Dart)       — Single source of truth · slot locking · real-time sync
+
+ Linked modules: payroll → expenses · PO receipt → stock + expenses
+                 prescription → pharmacy stock → pharmacy revenue
+```
+
+<div align="center">
+
+<img src="assets/shifa-care/app_02_home.png" width="23%" style="border-radius:8px" />
+<img src="assets/shifa-care/app_05_booking.png" width="23%" style="border-radius:8px" />
+<img src="assets/shifa-care/app_06_queue.png" width="23%" style="border-radius:8px" />
+<img src="assets/shifa-care/app_07_prescription.png" width="23%" style="border-radius:8px" />
+<br><br>
+<img src="assets/shifa-care/doctor_02_today.png" width="23%" style="border-radius:8px" />
+<img src="assets/shifa-care/doctor_03_consultation.png" width="23%" style="border-radius:8px" />
+<img src="assets/shifa-care/app_08_chat.png" width="23%" style="border-radius:8px" />
+<img src="assets/shifa-care/app_09_health.png" width="23%" style="border-radius:8px" />
+<br><br>
+<img src="assets/shifa-care/erp_01_overview.png" width="90%" style="border-radius:8px" />
+<br><br>
+<img src="assets/shifa-care/erp_02_queue.png" width="90%" style="border-radius:8px" />
+<br><br>
+<img src="assets/shifa-care/erp_05_pharmacy.png" width="44%" style="border-radius:8px" />
+<img src="assets/shifa-care/erp_06_finance.png" width="44%" style="border-radius:8px" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
 <!-- ==================== BIN RABIE HOLDING ==================== -->
 <div align="center">
 
-### `01` Bin Rabie Holding Group — Corporate Website
+### `02` Bin Rabie Holding Group — Corporate Website
 **`binrabiegroup.sa`** · HTML · CSS · JavaScript
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-holding)
@@ -109,7 +162,7 @@ const ahmed = {
 <!-- ==================== QADIR ==================== -->
 <div align="center">
 
-### `02` qadir.sa — VIP Ride-Hailing Platform
+### `03` qadir.sa — VIP Ride-Hailing Platform
 **`Flutter · React · Node.js · PostgreSQL · GPS · Mada/Apple Pay`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
@@ -137,7 +190,7 @@ const ahmed = {
 <!-- ==================== BIN RABIE EXPRESS ==================== -->
 <div align="center">
 
-### `03` Bin Rabie Express — Courier & Logistics Website
+### `04` Bin Rabie Express — Courier & Logistics Website
 **`HTML · CSS · JavaScript`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-express)
@@ -160,7 +213,7 @@ const ahmed = {
 <!-- ==================== COURIER MANAGEMENT ==================== -->
 <div align="center">
 
-### `04` Courier Management System — Enterprise Dashboard
+### `05` Courier Management System — Enterprise Dashboard
 **`Node.js · React · TypeScript · PostgreSQL · Prisma`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/courier-management)
@@ -188,7 +241,7 @@ const ahmed = {
 <!-- ==================== FIXGO ==================== -->
 <div align="center">
 
-### `05` FixGo — On-Demand Home Services Platform
+### `06` FixGo — On-Demand Home Services Platform
 **`Flutter · Firebase · Node.js`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
@@ -215,7 +268,7 @@ const ahmed = {
 <!-- ==================== BIN RABIE FOOD ==================== -->
 <div align="center">
 
-### `06` Bin Rabie Food — Restaurant Website
+### `07` Bin Rabie Food — Restaurant Website
 **`HTML · CSS · JavaScript`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-food)
@@ -238,7 +291,7 @@ const ahmed = {
 <!-- ==================== ENDPOINT SECURITY ==================== -->
 <div align="center">
 
-### `07` Endpoint Security Monitor — Corporate Security Tool
+### `08` Endpoint Security Monitor — Corporate Security Tool
 **`Python · Node.js · React`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/endpoint-security-monitor)
@@ -259,7 +312,7 @@ const ahmed = {
 <!-- ==================== TRIPPO ==================== -->
 <div align="center">
 
-### `08` Trippo — Smart Ride-Hailing App
+### `09` Trippo — Smart Ride-Hailing App
 **`Flutter · Firebase · GPS`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
@@ -285,7 +338,7 @@ const ahmed = {
 <!-- ==================== WALLETNOW ==================== -->
 <div align="center">
 
-### `09` WalletNow — Digital Wallet App
+### `10` WalletNow — Digital Wallet App
 **`Flutter · Firebase · Bank APIs`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
@@ -311,7 +364,7 @@ const ahmed = {
 <!-- ==================== DOM CAR RENTAL ==================== -->
 <div align="center">
 
-### `10` Dom Car Rental — Bilingual Website
+### `11` Dom Car Rental — Bilingual Website
 **`React · Node.js`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/dom-car-rental)
