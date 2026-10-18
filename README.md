@@ -136,10 +136,56 @@ const ahmed = {
 
 <br>
 
+<!-- ==================== MISR E-VOTING ==================== -->
+<div align="center">
+
+### `02` Misr (مصر) — E-Voting Platform for Elections & Referendums
+**`Flutter · React · TypeScript · Node.js · PostgreSQL · Prisma`**
+
+[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/egypt-app)
+![Status](https://img.shields.io/badge/Status-Demo_·_Portfolio-00FF41?style=flat-square)
+![Apps](https://img.shields.io/badge/Apps-Citizen_·_Dashboard_·_API-00FF41?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-58_API_·_38_mobile_·_live_E2E-00FF41?style=flat-square)
+
+</div>
+
+```
+ Secure e-voting platform with an Egyptian Pharaonic identity (Arabic / RTL)
+ ├── 📱 Citizen App (Flutter) — National ID + linked mobile → SMS OTP login,
+ │                              elections · referendums · polls, vote receipts
+ ├── 🖥️  Admin Dashboard (React) — Turnout analytics, ballot lifecycle,
+ │                              voter roll (add / import / edit), admin accounts
+ └── ⚙️  REST API (Node.js)      — Ballot secrecy (who voted ≠ what was voted),
+                                 one vote per citizen under concurrency
+
+ Security: Argon2id + lockout · append-only DB triggers · HMAC-chained audit log
+           timing-safe OTP · SMS-pumping circuit breaker · encrypted tested backups
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AhmedElashry20/egypt-app/main/docs/screenshots/mobile/02-login.png" width="23%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/egypt-app/main/docs/screenshots/mobile/04-home.png" width="23%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/egypt-app/main/docs/screenshots/mobile/05-ballot.png" width="23%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/egypt-app/main/docs/screenshots/mobile/07-receipt.png" width="23%" style="border-radius:8px" />
+<br><br>
+<img src="https://raw.githubusercontent.com/AhmedElashry20/egypt-app/main/docs/screenshots/dashboard/02-overview.png" width="90%" style="border-radius:8px" />
+<br><br>
+<img src="https://raw.githubusercontent.com/AhmedElashry20/egypt-app/main/docs/screenshots/dashboard/04-new-ballot.png" width="44%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/egypt-app/main/docs/screenshots/dashboard/07-add-voter.png" width="44%" style="border-radius:8px" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
 <!-- ==================== BIN RABIE HOLDING ==================== -->
 <div align="center">
 
-### `02` Bin Rabie Holding Group — Corporate Website
+### `03` Bin Rabie Holding Group — Corporate Website
 **`binrabiegroup.sa`** · HTML · CSS · JavaScript
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-holding)
@@ -162,7 +208,7 @@ const ahmed = {
 <!-- ==================== QADIR ==================== -->
 <div align="center">
 
-### `03` qadir.sa — VIP Ride-Hailing Platform
+### `04` qadir.sa — VIP Ride-Hailing Platform
 **`Flutter · React · Node.js · PostgreSQL · GPS · Mada/Apple Pay`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
@@ -190,7 +236,7 @@ const ahmed = {
 <!-- ==================== BIN RABIE EXPRESS ==================== -->
 <div align="center">
 
-### `04` Bin Rabie Express — Courier & Logistics Website
+### `05` Bin Rabie Express — Courier & Logistics Website
 **`HTML · CSS · JavaScript`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-express)
@@ -213,7 +259,7 @@ const ahmed = {
 <!-- ==================== COURIER MANAGEMENT ==================== -->
 <div align="center">
 
-### `05` Courier Management System — Enterprise Dashboard
+### `06` Courier Management System — Enterprise Dashboard
 **`Node.js · React · TypeScript · PostgreSQL · Prisma`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/courier-management)
@@ -241,7 +287,7 @@ const ahmed = {
 <!-- ==================== FIXGO ==================== -->
 <div align="center">
 
-### `06` FixGo — On-Demand Home Services Platform
+### `07` FixGo — On-Demand Home Services Platform
 **`Flutter · Firebase · Node.js`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
@@ -268,7 +314,7 @@ const ahmed = {
 <!-- ==================== BIN RABIE FOOD ==================== -->
 <div align="center">
 
-### `07` Bin Rabie Food — Restaurant Website
+### `08` Bin Rabie Food — Restaurant Website
 **`HTML · CSS · JavaScript`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-food)
@@ -291,7 +337,7 @@ const ahmed = {
 <!-- ==================== ENDPOINT SECURITY ==================== -->
 <div align="center">
 
-### `08` Endpoint Security Monitor — Corporate Security Tool
+### `09` Endpoint Security Monitor — Corporate Security Tool
 **`Python · Node.js · React`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/endpoint-security-monitor)
@@ -312,7 +358,7 @@ const ahmed = {
 <!-- ==================== TRIPPO ==================== -->
 <div align="center">
 
-### `09` Trippo — Smart Ride-Hailing App
+### `10` Trippo — Smart Ride-Hailing App
 **`Flutter · Firebase · GPS`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
@@ -338,7 +384,7 @@ const ahmed = {
 <!-- ==================== WALLETNOW ==================== -->
 <div align="center">
 
-### `10` WalletNow — Digital Wallet App
+### `11` WalletNow — Digital Wallet App
 **`Flutter · Firebase · Bank APIs`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
@@ -364,7 +410,7 @@ const ahmed = {
 <!-- ==================== DOM CAR RENTAL ==================== -->
 <div align="center">
 
-### `11` Dom Car Rental — Bilingual Website
+### `12` Dom Car Rental — Bilingual Website
 **`React · Node.js`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/dom-car-rental)
