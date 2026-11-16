@@ -191,11 +191,11 @@ const ahmed = {
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-holding)
 ![Status](https://img.shields.io/badge/Status-Production-00FF41?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-holding/main/screenshot.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-holding/master/screenshot.png" width="90%" style="border-radius:8px" />
 <br><br>
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-holding/main/screenshot2.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-holding/master/screenshot2.png" width="90%" style="border-radius:8px" />
 <br><br>
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-holding/main/screenshot3.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-holding/master/screenshot3.png" width="90%" style="border-radius:8px" />
 
 </div>
 
@@ -242,11 +242,11 @@ const ahmed = {
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-express)
 ![Status](https://img.shields.io/badge/Status-Production-00FF41?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-express/main/screenshot.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-express/master/screenshot.png" width="90%" style="border-radius:8px" />
 <br><br>
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-express/main/screenshot2.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-express/master/screenshot2.png" width="90%" style="border-radius:8px" />
 <br><br>
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-express/main/screenshot3.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-express/master/screenshot3.png" width="90%" style="border-radius:8px" />
 
 </div>
 
@@ -320,11 +320,11 @@ const ahmed = {
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-food)
 ![Status](https://img.shields.io/badge/Status-Production-00FF41?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-food/main/screenshot.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-food/master/screenshot.png" width="90%" style="border-radius:8px" />
 <br><br>
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-food/main/screenshot2.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-food/master/screenshot2.png" width="90%" style="border-radius:8px" />
 <br><br>
-<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-food/main/screenshot3.png" width="90%" style="border-radius:8px" />
+<img src="https://raw.githubusercontent.com/AhmedElashry20/bin-rabie-food/master/screenshot3.png" width="90%" style="border-radius:8px" />
 
 </div>
 
@@ -465,12 +465,13 @@ const ahmed = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedElashry20&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElashry20&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedElashry20&theme=github_dark" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=AhmedElashry20&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 <br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElashry20&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=C9D1D9" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedElashry20&theme=github_dark" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedElashry20&theme=github_dark" />
 
 </div>
 
