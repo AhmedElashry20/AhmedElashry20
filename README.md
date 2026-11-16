@@ -13,7 +13,7 @@
  ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%24+whoami+--+Senior+Flutter+Developer;%24+uptime+--+8%2B+years+in+production;%24+ls+apps%2F+--+30%2B+shipped+applications;%24+users+--count+--+100K%2B+active+users;%24+stack+--+Flutter+%7C+React+%7C+Node.js+%7C+AWS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%24+whoami+--+Senior+Full-Stack+Developer+%26+Flutter+Engineer;%24+uptime+--+8%2B+years+in+production;%24+ls+apps%2F+--+30%2B+shipped+applications;%24+users+--count+--+100K%2B+active+users;%24+stack+--+Flutter+%7C+React+%7C+Node.js+%7C+AWS" alt="Typing SVG" /></a>
 
 <br>
 
@@ -31,7 +31,7 @@
 
 ```js
 const ahmed = {
-    role: "IT & Software Development Manager",
+    role: "Senior Full-Stack Developer & Flutter Engineer",
     company: "Bin Rabie Investment Group",
     location: "Riyadh, Saudi Arabia",
     experience: "8+ years",
