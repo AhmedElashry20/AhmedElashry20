@@ -211,7 +211,6 @@ const ahmed = {
 ### `04` qadir.sa — VIP Ride-Hailing Platform
 **`Flutter · React · Node.js · PostgreSQL · GPS · Mada/Apple Pay`**
 
-[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
 ![Status](https://img.shields.io/badge/Status-Live_Production-00FF41?style=flat-square)
 [![Website](https://img.shields.io/badge/Website-qadir.sa-0077B5?style=flat-square&logo=safari&logoColor=white)](https://qadir.sa)
 
@@ -290,7 +289,6 @@ const ahmed = {
 ### `07` FixGo — On-Demand Home Services Platform
 **`Flutter · Firebase · Node.js`**
 
-[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
 ![Status](https://img.shields.io/badge/Status-Production-00FF41?style=flat-square)
 ![Metric](https://img.shields.io/badge/Same--Day_Completion-92%25-00FF41?style=flat-square)
 
@@ -355,62 +353,10 @@ const ahmed = {
 
 <br>
 
-<!-- ==================== TRIPPO ==================== -->
-<div align="center">
-
-### `10` Trippo — Smart Ride-Hailing App
-**`Flutter · Firebase · GPS`**
-
-[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
-![Status](https://img.shields.io/badge/Status-Production-00FF41?style=flat-square)
-![Metric](https://img.shields.io/badge/Cost_Reduction-30%25-00FF41?style=flat-square)
-
-</div>
-
-```
- Ride-hailing app with intelligent routing
- ├── 🗺️  Real-time GPS tracking with sub-second updates
- ├── 💰 Dynamic pricing engine — surge based on demand
- ├── 🛣️  AI-powered route optimization
- └── 📊 Driver analytics dashboard
-```
-
-<br>
-
----
-
-<br>
-
-<!-- ==================== WALLETNOW ==================== -->
-<div align="center">
-
-### `11` WalletNow — Digital Wallet App
-**`Flutter · Firebase · Bank APIs`**
-
-[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/readmes)
-![Status](https://img.shields.io/badge/Status-Production-00FF41?style=flat-square)
-![Metric](https://img.shields.io/badge/Success_Rate-99.8%25-00FF41?style=flat-square)
-
-</div>
-
-```
- Secure digital wallet application
- ├── 🏦 Direct bank API integration
- ├── 📷 QR code money transfers
- ├── 📊 Spending analytics & insights
- └── 🔐 Biometric authentication
-```
-
-<br>
-
----
-
-<br>
-
 <!-- ==================== DOM CAR RENTAL ==================== -->
 <div align="center">
 
-### `12` Dom Car Rental — Bilingual Website
+### `10` Dom Car Rental — Bilingual Website
 **`React · Node.js`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/dom-car-rental)
