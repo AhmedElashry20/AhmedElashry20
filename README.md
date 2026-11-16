@@ -13,7 +13,7 @@
  ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%24+whoami+--+Senior+Flutter+Developer;%24+uptime+--+7%2B+years+in+production;%24+ls+apps%2F+--+30%2B+shipped+applications;%24+users+--count+--+100K%2B+active+users;%24+stack+--+Flutter+%7C+React+%7C+Node.js+%7C+AWS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%24+whoami+--+Senior+Flutter+Developer;%24+uptime+--+8%2B+years+in+production;%24+ls+apps%2F+--+30%2B+shipped+applications;%24+users+--count+--+100K%2B+active+users;%24+stack+--+Flutter+%7C+React+%7C+Node.js+%7C+AWS" alt="Typing SVG" /></a>
 
 <br>
 
@@ -34,7 +34,7 @@ const ahmed = {
     role: "IT & Software Development Manager",
     company: "Bin Rabie Investment Group",
     location: "Riyadh, Saudi Arabia",
-    experience: "7+ years",
+    experience: "8+ years",
     education: "B.S. Computer Science — Tanta University (2018)",
     languages: ["Arabic (Native)", "English (C1)", "Italian (B1)"],
 
