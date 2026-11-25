@@ -35,7 +35,7 @@ const ahmed = {
     company: "Bin Rabie Holding Group",
     location: "Riyadh, Saudi Arabia",
     experience: "8+ years",
-    education: "B.Sc. Computer Science — Tanta University (2018), Very Good",
+    education: "Bachelor of Computers and Information — Tanta University (2018), Very Good",
     languages: ["Arabic (Native)", "English (C1)", "Italian (B1)"],
 
     expertise: {
