@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,50:0D1117,100:00FF41&height=200&section=header&text=Ahmed%20Elashry&fontSize=50&fontColor=00FF41&animation=twinkling&stroke=00FF41&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Ahmed%20Elashry&fontSize=56&fontColor=00FF41&fontAlignY=42&desc=Senior%20Full-Stack%20%26%20Mobile%20Developer%20%C2%B7%20Riyadh&descSize=18&descAlignY=72&descColor=C9D1D9" alt="Ahmed Elashry — Senior Full-Stack & Mobile Developer"/>
 
 <br>
 
@@ -90,6 +90,7 @@ const ahmed = {
 **`Flutter · Dart · REST API · Flutter Web`**
 
 ![Status](https://img.shields.io/badge/Status-Complete_MVP-00FF41?style=flat-square)
+[![Demo](https://img.shields.io/badge/Live_Demo-hospital.ct.ws-0077B5?style=flat-square&logo=safari&logoColor=white)](https://hospital.ct.ws)
 ![Apps](https://img.shields.io/badge/Apps-Patient_·_Doctor_·_ERP-00FF41?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-25_passing-00FF41?style=flat-square)
 
@@ -182,10 +183,62 @@ const ahmed = {
 
 <br>
 
+<!-- ==================== QADIR FOOD ==================== -->
+<div align="center">
+
+### `03` Qadir Food — Saudi Delivery Platform
+**`Flutter · React · NestJS · PostgreSQL`**
+
+[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/qadirfood)
+[![Demo](https://img.shields.io/badge/Live_Demo-Admin_Panel-0077B5?style=flat-square&logo=safari&logoColor=white)](https://qadirfood-admin.onrender.com/login)
+![Apps](https://img.shields.io/badge/Apps-Customer_·_Captain_·_Restaurant-00FF41?style=flat-square)
+
+</div>
+
+```
+ Full delivery platform for Saudi Arabia
+ ├── 📱 Customer · Captain · Restaurant apps (Flutter)
+ ├── 🖥️  Admin & Restaurant panels (React) — live dispatch, settlements
+ └── ⚙️  Realtime backend (NestJS) — order state machine, GPS tracking
+
+ Payments: Moyasar · Invoicing: ZATCA · Captain wallet · Fleet settlements
+```
+
+<br>
+
+---
+
+<br>
+
+<!-- ==================== ELASHRY AI ==================== -->
+<div align="center">
+
+### `04` Elashry AI — VS Code Assistant + Model Trained From Scratch
+**`Python · LLM · VS Code`**
+
+[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/elashry-ai)
+![Model](https://img.shields.io/badge/Model-17.9M_params-00FF41?style=flat-square)
+![Data](https://img.shields.io/badge/Trained_on-2.61B_tokens_·_88_languages-00FF41?style=flat-square)
+
+</div>
+
+```
+ Personal coding assistant for VS Code
+ ├── 🧠 Language model — 17.9M parameters, trained from scratch
+ │                       on 2.61B tokens across 88 programming languages
+ └── 🤖 Agent — tools, skills, deterministic goal checks, permissions
+```
+
+<br>
+
+---
+
+<br>
+
 <!-- ==================== BIN RABIE HOLDING ==================== -->
 <div align="center">
 
-### `03` Bin Rabie Holding Group — Corporate Website
+### `05` Bin Rabie Holding Group — Corporate Website
 **`binrabiegroup.sa`** · HTML · CSS · JavaScript
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-holding)
@@ -208,7 +261,7 @@ const ahmed = {
 <!-- ==================== QADIR ==================== -->
 <div align="center">
 
-### `04` qadir.sa — VIP Ride-Hailing Platform
+### `06` qadir.sa — VIP Ride-Hailing Platform
 **`Flutter · React · Node.js · PostgreSQL · GPS · Mada/Apple Pay`**
 
 ![Status](https://img.shields.io/badge/Status-Live_Production-00FF41?style=flat-square)
@@ -235,7 +288,7 @@ const ahmed = {
 <!-- ==================== BIN RABIE EXPRESS ==================== -->
 <div align="center">
 
-### `05` Bin Rabie Express — Courier & Logistics Website
+### `07` Bin Rabie Express — Courier & Logistics Website
 **`HTML · CSS · JavaScript`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-express)
@@ -258,10 +311,10 @@ const ahmed = {
 <!-- ==================== COURIER MANAGEMENT ==================== -->
 <div align="center">
 
-### `06` Courier Management System — Enterprise Dashboard
+### `08` Courier Management System — Enterprise Dashboard
 **`Node.js · React · TypeScript · PostgreSQL · Prisma`**
 
-[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/courier-management)
+![Repo](https://img.shields.io/badge/Source-Private_(client_system)-555555?style=flat-square&logo=github)
 ![Status](https://img.shields.io/badge/Status-Live_Production-00FF41?style=flat-square)
 
 </div>
@@ -286,11 +339,11 @@ const ahmed = {
 <!-- ==================== FIXGO ==================== -->
 <div align="center">
 
-### `07` FixGo — On-Demand Home Services Platform
+### `09` FixGo — On-Demand Home Services Platform
 **`Flutter · Firebase · Node.js`**
 
 ![Status](https://img.shields.io/badge/Status-Production-00FF41?style=flat-square)
-![Metric](https://img.shields.io/badge/Same--Day_Completion-92%25-00FF41?style=flat-square)
+![Metric](https://img.shields.io/badge/Customer_Satisfaction-92%25-00FF41?style=flat-square)
 
 </div>
 
@@ -312,7 +365,7 @@ const ahmed = {
 <!-- ==================== BIN RABIE FOOD ==================== -->
 <div align="center">
 
-### `08` Bin Rabie Food — Restaurant Website
+### `10` Bin Rabie Food — Food Distribution Website
 **`HTML · CSS · JavaScript`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/bin-rabie-food)
@@ -335,7 +388,7 @@ const ahmed = {
 <!-- ==================== ENDPOINT SECURITY ==================== -->
 <div align="center">
 
-### `09` Endpoint Security Monitor — Corporate Security Tool
+### `11` Endpoint Security Monitor — Corporate Security Tool
 **`Python · Node.js · React`**
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/endpoint-security-monitor)
@@ -356,8 +409,8 @@ const ahmed = {
 <!-- ==================== DOM CAR RENTAL ==================== -->
 <div align="center">
 
-### `10` Dom Car Rental — Bilingual Website
-**`React · Node.js`**
+### `12` Dom Car Rental — Bilingual Website
+**`doom.sa`** · HTML · CSS · JavaScript
 
 [![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedElashry20/dom-car-rental)
 ![Status](https://img.shields.io/badge/Status-Production-00FF41?style=flat-square)
