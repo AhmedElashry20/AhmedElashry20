@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Ahmed%20Elashry&fontSize=56&fontColor=00FF41&fontAlignY=42&desc=Senior%20Full-Stack%20%26%20Mobile%20Developer%20%C2%B7%20Riyadh&descSize=18&descAlignY=72&descColor=C9D1D9" alt="Ahmed Elashry — Senior Full-Stack & Mobile Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Ahmed%20Elashry&fontSize=56&fontColor=00FF41&fontAlignY=42&desc=Senior%20Full-Stack%20%26amp%3B%20Mobile%20Developer%20%C2%B7%20Riyadh&descSize=18&descAlignY=72&descColor=C9D1D9" alt="Ahmed Elashry — Senior Full-Stack & Mobile Developer"/>
 
 <br>
 
