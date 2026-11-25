@@ -13,7 +13,7 @@
  ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%24+whoami+--+Senior+Full-Stack+Developer+%26+Flutter+Engineer;%24+uptime+--+8%2B+years+in+production;%24+ls+apps%2F+--+30%2B+shipped+applications;%24+users+--count+--+100K%2B+active+users;%24+stack+--+Flutter+%7C+React+%7C+Node.js+%7C+AWS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=820&lines=%24+whoami+--+Senior+Full-Stack+%26+Mobile+Developer;%24+uptime+--+8%2B+years+in+production;%24+ls+apps%2F+--+30%2B+shipped+applications;%24+users+--count+--+100K%2B+active+users;%24+stack+--+Flutter+%7C+React+%7C+Node.js+%7C+AWS" alt="Typing SVG" /></a>
 
 <br>
 
@@ -31,8 +31,8 @@
 
 ```js
 const ahmed = {
-    role: "Senior Full-Stack Developer & Flutter Engineer",
-    company: "Bin Rabie Investment Group",
+    role: "Senior Full-Stack & Mobile Developer",
+    company: "Bin Rabie Holding Group",
     location: "Riyadh, Saudi Arabia",
     experience: "8+ years",
     education: "B.S. Computer Science — Tanta University (2018)",
@@ -380,27 +380,30 @@ const ahmed = {
 
 ```json
 {
-    "google": [
-        "Associate Android Developer",
-        "Cloud Engineer",
-        "Firebase Advanced"
-    ],
     "aws": [
-        "Certified Developer Associate",
-        "Solutions Architect Associate"
+        "Certified Solutions Architect – Associate",
+        "Certified Developer – Associate"
+    ],
+    "google": [
+        "Associate Cloud Engineer",
+        "Associate Android Developer",
+        "TensorFlow Developer Certificate"
+    ],
+    "platforms": [
+        "Docker Certified Associate",
+        "EDB PostgreSQL Associate",
+        "OpenJS Node.js Developer (JSNSD)"
     ],
     "agile": [
         "Certified ScrumMaster (CSM)",
-        "PSPO I"
+        "Professional Scrum Product Owner I (PSPO I)"
     ],
-    "security": [
-        "SANS Mobile Penetration Testing",
-        "OWASP Mobile Security"
-    ],
-    "academic": [
-        "Harvard CS50 Mobile",
-        "Stanford Algorithms",
-        "Princeton Data Structures"
+    "courses": [
+        "Stanford — Algorithms Specialization",
+        "Harvard — CS50 Mobile App Development",
+        "SANS — SEC575 iOS & Android Application Security",
+        "DeepLearning.AI — Machine Learning & Deep Learning",
+        "IBM — AI Engineering"
     ]
 }
 ```
