@@ -17,7 +17,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-%40ahmed--elashry-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmoustafaelashry)
+[![LinkedIn](https://img.shields.io/badge/-%40ahmedmoustafaelashry-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmoustafaelashry)
 [![GitHub](https://img.shields.io/badge/-%40AhmedElashry20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AhmedElashry20)
 [![Email](https://img.shields.io/badge/-ahmedmoustafaelashry%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedmoustafaelashry@gmail.com)
 [![Location](https://img.shields.io/badge/-Riyadh,_Saudi_Arabia-00FF41?style=flat-square&logo=googlemaps&logoColor=white)](#)
